@@ -1,1 +1,0 @@
-('Mean of Grip strength with Frailty:', 23.5, 'Mean of Grip strength without Frailty:', 27.666666666666668)
